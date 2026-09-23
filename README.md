@@ -189,9 +189,8 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
 ## output
-<img width="505" height="811" alt="image" src="https://github.com/user-attachments/assets/56df7f27-dc65-4e08-a134-509bbb8e5c8c" />
+<img width="941" height="1672" alt="727ea275-2506-4c13-bdf2-a2f91672bcd5" src="https://github.com/user-attachments/assets/ec679fc4-4e3f-4714-b295-2f0005f99963" />
 
-<img width="483" height="801" alt="image" src="https://github.com/user-attachments/assets/89a53941-f676-475a-9184-53a4b3e02a8a" />
 
 
 Feel free to fork, contribute, or customize this project for your creative needs!
